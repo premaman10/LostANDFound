@@ -1,8 +1,8 @@
 
 # Lost and Found Web Application
 
-![App Screenshot 1](link_to_first_image)  
-![App Screenshot 2](link_to_second_image)
+![image](https://github.com/user-attachments/assets/3c8259f4-62ad-47b2-b34c-046632bb8e5f)
+
 
 ## 📌 Project Overview
 
